@@ -1,0 +1,14 @@
+body {
+
+	background-color: white;
+}
+
+#searchbox {
+	background-color: grey;
+	border-radius: 35px;
+	border-width: 1px;
+	width: 500px;
+	height: 35px;
+	padding: 10px;
+	margin: 100px ;
+}
