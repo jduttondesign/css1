@@ -12,3 +12,15 @@ body {
 	padding: 10px;
 	margin: 100px ;
 }
+
+.footerleft {
+    align: left;
+    height: 100px;
+    background: #eee;
+}
+
+.footerright {
+	align:right;
+	height: 100px;
+    background: #eee;
+}
